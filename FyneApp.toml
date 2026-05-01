@@ -1,0 +1,6 @@
+[Details]
+Icon = "Icon.png"
+Name = "体脂率计算器"
+ID = "com.example.bodyfat"
+Version = "1.0.0"
+Build = 8
